@@ -1,0 +1,25 @@
+body {
+  background: linear-gradient(to right, #005792, #00BBF0);
+}
+.warapper {
+  width: 70%;
+  margin: auto;
+  text-align: center;
+}
+h1 {
+  margin: 20px;
+  font-size: 6rem;
+  color: rgb(208, 214, 218);
+}
+.dice-area {
+  margin: 0 50px;
+  text-align: center;
+  display: inline-block;
+}
+p {
+  font-size: 2.5rem;
+  color: rgb(208, 214, 218);
+}
+img {
+  width: 320px;
+}
