@@ -27,6 +27,6 @@ document.querySelectorAll
 if (firstRandomNum >
     secondRandomNum) {
         document.querySelector
-        ('h1').innerHTML = 'The Winner is User 2'
+        ('h1').innerHTML = 'The Winner is User 1'
     } else {document.querySelector
-        ('h1').innerHTML = 'Its a DRAW'}
+        ('h1').innerHTML = 'The Winner is User 2'}
